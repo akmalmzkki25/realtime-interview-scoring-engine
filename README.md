@@ -1,3 +1,6 @@
+# The Product
+Please refer to https://github.com/rakamindev/ai-interview-platform/wiki for initial product specification
+
 # The Platform
 
 A two-service application used for the interview assessment platform. It is provided as a single repository so the whole thing clones, runs, and releases as one unit.
